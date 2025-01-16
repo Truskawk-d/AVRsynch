@@ -1,5 +1,3 @@
-Na podstawie Twojego kodu przygotowałem plik README.md, który możesz dodać do repozytorium GitHub. Oto treść:
-
 Gra: Sekwencja Przyciskiem
 
 Gra logiczna pozwalająca użytkownikowi na odtworzenie zaprogramowanej sekwencji przycisków. Jeśli gracz wprowadzi poprawną sekwencję w określonym czasie, gra sygnalizuje sukces. W przypadku błędu lub upływu czasu pojawia się sygnał niepowodzenia.
